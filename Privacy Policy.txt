@@ -1,0 +1,35 @@
+# Privacy Policy
+
+**App Name:** CostKeeper  
+**Developer:** [Shekhata Makhmud Mokhamed abdelgalil]  
+**Last Updated:** [13-5-2026]
+
+## English
+
+### Data We Collect
+CostKeeper does NOT collect, store, or share any personal information. All financial data (expenses, income) is stored locally on your device only.
+
+### Third-Party Services
+- **Yandex Ads:** May collect device identifiers for advertising purposes. See Yandex privacy policy.
+
+### Data Storage
+All data is stored locally on your device. We do not upload or share your data with any servers.
+
+### Contact
+[maeskanaex@gmail.com]
+
+---
+
+## 中文
+
+### 我们收集的数据
+CostKeeper 不会收集、存储或分享任何个人信息。所有财务数据（支出、收入）仅存储在您的设备本地。
+
+### 第三方服务
+- **Yandex 广告：** 可能会收集设备标识符用于广告目的。请参阅 Yandex 隐私政策。
+
+### 数据存储
+所有数据均存储在您的设备本地。我们不会将您的数据上传或分享给任何服务器。
+
+### 联系我们
+[maeskanaex@gmail.com]
